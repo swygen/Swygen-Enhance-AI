@@ -1,5 +1,5 @@
 pyTelegramBotAPI
 flask
 requests
-gradio_client
 pytz
+gradio_client
